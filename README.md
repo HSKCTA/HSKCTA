@@ -129,12 +129,6 @@
   <img src="https://leetcard.jacoblin.cool/Hitesh_Khare?ext=heatmap"/>
 </p>
 
----
-
-### 🐍 GitHub Contribution Snake
-<p align="center">
-  <img src="https://github.com/HSKCTA/HSKCTA/blob/output/github-snake-dark.svg"/>
-</p>
 
 ---
 
