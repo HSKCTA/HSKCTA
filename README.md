@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Hitesh Sanjay Khare</h1>
 <h3 align="center">AI/ML Developer | Building with Time-Series (EEG), Conversational AI (Rasa), and Computer Vision.</h3>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=hskcta" alt="hskcta" /></a> </p>
+
 
 - 🔭 I’m currently working on **Shazam Clone**
 
