@@ -45,7 +45,7 @@
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tensorflow/tensorflow-original.svg" width="40"/>&nbsp;
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pytorch/pytorch-original.svg" width="40"/>&nbsp;
 <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" width="40"/>&nbsp;
-<img src="https://rasa.com/static/9007e1136e056975a5c68d4d7a03aa08/rasa-logo-stacked.svg" width="40"/>&nbsp;
+<img src="https://logowik.com/content/uploads/images/rasa1383.logowik.com.webp" width="40"/>&nbsp;
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/opencv/opencv-original.svg" width="40"/></td></tr>
 
 <tr><td><strong>Backend</strong></td><td>
