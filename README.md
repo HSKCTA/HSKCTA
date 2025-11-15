@@ -90,7 +90,6 @@
 ### 🏆 Achievements
 - **La Trobe University Research Grant** – Awarded research funding for a novel AI project on learning disability classification.
 - **Smart India Hackathon (SIH)** – 2x Internal Finalist (Cleared internal college selection round in 2024 & 2025).
-- **DevClash Hackathon** – Participant.
 
 ---
 
