@@ -76,7 +76,7 @@
 - Engineered an advanced deep learning pipeline to classify complex, noisy **time-series** EEG data.
 
 **📌 AI-Powered Exam Preparation Assistant**
-[GitHub](https://github.com/HSKCTA/YOUR-REPO-NAME-HERE)
+[GitHub](https://github.com/HSKCTA/Exam_Prep_assistant)
 - Built an end-to-end conversational AI system using **Rasa** to analyze exam papers, generate mock tests, and create study plans.
 - Implemented a document analysis pipeline (PDF/DOCX) using **semantic clustering** (Sentence-Transformers) to group frequent concepts.
 
