@@ -30,19 +30,13 @@
 
 ### 💻 Coding Profiles
 <p align="left">
-  <a href="https://leetcode.com/Hitesh_Khare" title="LeetCode Profile">
+  <a href="https://leetcode.com/Hitesh_Khare" title="LeetCode">
     <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="LeetCode" width="40"/>
   </a>&nbsp;&nbsp;
-  
-  <a href="https://www.hackerrank.com/profile/hiteshkhare9388" title="HackerRank Problem Solving Badge">
-    <img src="https://www.hackerrank.com/badges/problem_solving/hiteshkhare9388.svg" alt="HackerRank Problem Solving Badge" width="100"/>
+  <a href="https://www.hackerrank.com/profile/hiteshkhare9388" title="HackerRank">
+    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="HackerRank" width="40"/>
   </a>&nbsp;&nbsp;
-
-  <a href="https://www.hackerrank.com/profile/hiteshkhare9388" title="HackerRank Python Badge">
-    <img src="https://www.hackerrank.com/badges/python/hiteshkhare9388.svg" alt="HackerRank Python Badge" width="100"/>
-  </a>&nbsp;&nbsp;
-  
-  </p>
+</p>
 
 ---
 
@@ -138,7 +132,6 @@
 <p align="center">
   <img src="https://leetcard.jacoblin.cool/Hitesh_Khare?ext=heatmap"/>
 </p>
-
 
 ---
 
