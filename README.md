@@ -30,8 +30,6 @@
 
 ### 💻 Coding Profiles
 <p align="left">
-  <a href="https://leetcode.com/Hitesh_Khare"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" width="40"/></a>&nbsp;&nbsp;
-
   <a href="https://leetcode.com/Hitesh_Khare" title="LeetCode Profile">
     <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="LeetCode" width="40"/>
   </a>&nbsp;&nbsp;
@@ -43,8 +41,8 @@
   <a href="https://www.hackerrank.com/profile/hiteshkhare9388" title="HackerRank Python Badge">
     <img src="https://www.hackerrank.com/badges/python/hiteshkhare9388.svg" alt="HackerRank Python Badge" width="100"/>
   </a>&nbsp;&nbsp;
-
-</p>
+  
+  </p>
 
 ---
 
