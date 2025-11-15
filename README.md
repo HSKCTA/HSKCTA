@@ -147,7 +147,7 @@
 
 ### 🌱 Currently Exploring
 - Building end-to-end MLOps pipelines (Docker, Kubernetes).
-- Advanced Time-Series Analysis and Audio Fingerprinting (Shazam Clone).
+- Advanced Time-Series Analysis and Audio Fingerprinting.
 - Building multi-modal and generative AI systems.
 
 ---
