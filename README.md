@@ -72,8 +72,7 @@
 ---
 
 ### 🚀 Top Projects
-
-*(Note: Projects are currently being prepared for public release and will be uploaded soon.)*
+Note: Currently some codes are not present since i burnt my laptop's old ssd and lost many of the project files . 
 
 **📌 AI-Powered Learning Disability Classifier**
 [GitHub](https://github.com/HSKCTA/YOUR-REPO-NAME-HERE)
