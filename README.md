@@ -67,7 +67,7 @@ Unlike typical data science workflows, my interest lies in the **infrastructure*
 * **Scope:** A distributed neuro-hybrid monitoring system funded by **La Trobe University**.
 * **Engineering:** Architected a producer-consumer model where a C++ Core captures biometrics, encrypts payloads via **AES-256**, and streams to a Python analyzer with **<50ms latency** via IPC sockets.
 
-#### **📌 [C++ Audio Fingerprinting (Shazam Clone)](https://github.com/HSKCTA)**
+#### **📌 [C++ Audio Fingerprinting (Shazam Clone)](https://github.com/HSKCTA/Shazam-Clone)**
 * **Tech:** C++17, FFTW3, Librosa
 * **Scope:** High-performance audio recognition kernel.
 * **Engineering:** Implementing the "Avery Wang" algorithm using **FFT** and combinatorial hashing. Currently profiling CPU bottlenecks to implement **SIMD optimizations** for spectral peak finding.
