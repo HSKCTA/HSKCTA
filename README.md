@@ -8,7 +8,7 @@
 <p align="center">
   <a href="https://linkedin.com/in/hitesh-khare"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&style=for-the-badge"></a>
   <a href="mailto:hiteshkhare9388@gmail.com"><img alt="Email" src="https://img.shields.io/badge/Gmail-red?logo=gmail&style=for-the-badge"></a>
-  <a href="https://drive.google.com/file/d/1FNtM43fj7E9gCJK_lrXBCXk55TVzlRa1/view?usp=sharing"><img alt="Resume" src="https://img.shields.io/badge/Resume-View-green?style=for-the-badge&logo=googledrive"></a>
+  <a href="https://drive.google.com/file/d/1-PLCfHMx95IEnmkba2vmug1R9yEXgCz6/view?usp=sharing"><img alt="Resume" src="https://img.shields.io/badge/Resume-View-green?style=for-the-badge&logo=googledrive"></a>
   <a href="https://github.com/HSKCTA"><img alt="GitHub followers" src="https://img.shields.io/github/followers/HSKCTA?label=Follow&style=for-the-badge"></a>
 </p>
 
