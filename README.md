@@ -131,7 +131,7 @@ My interest lies in the **infrastructure layer** — optimizing how AI models ar
 - **AMD Slingshot 2026** — Built and submitted Resonance, a working Edge AI fault detection prototype on AMD Ryzen AI hardware
 - **La Trobe University Research Grant** — Awarded for the NeuroBloom neuro-hybrid monitoring system
 - **Smart India Hackathon (SIH)** — 2× Internal Finalist (2024, 2025)
-- **Education** — B.E. Computer Engineering, Dr. D.Y. Patil Institute of Technology · CGPA 8.87/10
+- **Education** — B.E. Computer Engineering, Dr. D.Y. Patil Institute of Technology · CGPA 8.75/10
 
 ---
 
