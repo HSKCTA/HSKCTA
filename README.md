@@ -2,7 +2,7 @@
 <h3 align="center">Systems Engineering • High-Performance Computing • Edge AI Infrastructure</h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=3000&pause=1000&color=00D9FF&center=true&vCenter=true&width=800&lines=Building+Low-Latency+Systems;C%2B%2B+%7C+CUDA+%7C+Distributed+Systems;Edge+AI+%7C+DSP+%7C+ONNX+Runtime;La+Trobe+University+Grant+Recipient"/>
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=3000&pause=1000&color=00D9FF&center=true&vCenter=true&width=800&lines=Building+Low-Latency+Systems;C%2B%2B+%7C+CUDA+%7C+Distributed+Systems;Edge+AI+%7C+DSP+%7C+ONNX+Runtime;🏆+La+Trobe+TIGC+1st+Runner-Up"/>
 </p>
 
 <p align="center">
@@ -14,6 +14,16 @@
 
 ---
 
+### 🏆 **Latest Achievement**
+
+**1st Runner-Up — La Trobe University Technology Infusion Grand Challenge Asia 2025**
+- 🥈 Ranked 2/137 registrations across 11 universities in Asia
+- 💰 **₹1,00,000 Prize Award**
+- 🎯 **NeuroBloom** — Distributed neuro-hybrid cognitive screening system for ASD, ADHD, Dyscalculia detection
+- 📊 [View Challenge Details](https://www.latrobeuniversity.edu.in/) | [GitHub Repository](https://github.com/HSKCTA/NeuroBloom-Engine)
+
+---
+
 ### 👨‍💻 Engineering Profile
 
 I am a Computer Engineering student at **Dr. D. Y. Patil Institute of Technology** (Pune), focusing on the intersection of **Systems Programming (C++)** and **Artificial Intelligence**.
@@ -21,7 +31,7 @@ I am a Computer Engineering student at **Dr. D. Y. Patil Institute of Technology
 My interest lies in the **infrastructure layer** — optimizing how AI models are deployed, reducing latency in distributed pipelines, and building systems that work at the edge without cloud dependency.
 
 - **Core Focus:** High-Performance Computing, Distributed Systems, Edge AI, DSP
-- **Research:** Recipient of the **La Trobe University Research Grant** for architecting neuro-hybrid monitoring systems
+- **Recognition:** 1st Runner-Up at La Trobe University TIGC Asia 2025
 - **Current State:** Porting Python logic to **C++17** to minimize runtime overhead and building toward CUDA/GPU engineering
 
 ---
@@ -96,14 +106,17 @@ My interest lies in the **infrastructure layer** — optimizing how AI models ar
 
 ---
 
-#### **📌 [NeuroBloom Engine](https://github.com/HSKCTA/NeuroBloom-Engine)**
-> Distributed neuro-hybrid monitoring system · La Trobe University Research Grant
+#### **📌 [NeuroBloom Engine — 🏆 La Trobe TIGC 1st Runner-Up](https://github.com/HSKCTA/NeuroBloom-Engine)**
+> **1st Runner-Up** — La Trobe University Technology Infusion Grand Challenge Asia 2025 · ₹1,00,000 Prize
 
-- **Architected a producer-consumer model** where a C++ core captures biometrics, encrypts payloads via **AES-256**, and streams to a Python analyzer with **<50ms latency** via IPC sockets
+Distributed neuro-hybrid monitoring system for early detection of learning disabilities (ASD, ADHD, Dyscalculia)
+
+- **Architected a producer-consumer model** where a C++ core captures multi-modal biometrics (EEG simulation, eye-tracking, handwriting analysis), encrypts payloads via **AES-256**, and streams to a Python analyzer with **<50ms latency** via IPC sockets
 - **Designed secure inter-process communication** using ZeroMQ with OpenSSL encryption layer — no plaintext biometric data ever transmitted
-- Funded by **La Trobe University Research Grant** for work on neuro-hybrid cognitive monitoring architecture
+- **Recognition:** Ranked 2/137 entries across 11 universities in Asia · Awarded ₹1,00,000 prize
+- **Full technical deep-dive:** See [NeuroBloom Repository](https://github.com/HSKCTA/NeuroBloom-Engine)
 
-`C++` `ZeroMQ` `OpenSSL` `AES-256` `Python` `FastAPI`
+`C++` `ZeroMQ` `OpenSSL` `AES-256` `Python` `FastAPI` `OpenCV`
 
 ---
 
@@ -111,10 +124,10 @@ My interest lies in the **infrastructure layer** — optimizing how AI models ar
 > High-performance audio recognition kernel — foundation for Resonance DSP pipeline
 
 - Implementing the **Avery Wang fingerprinting algorithm** using FFT spectrograms and combinatorial hash matching in C++17
-- Profiling CPU bottlenecks and experimenting with **SIMD (AVX2) optimizations** for spectral peak finding
+- Profiling CPU bottlenecks and exploring **SIMD optimizations** for spectral peak finding
 - Core DSP concepts from this project directly informed the Resonance signal pipeline
 
-`C++17` `FFTW3` `Librosa` `DSP` `Audio Fingerprinting`
+`C++17` `FFTW3` `DSP` `Audio Fingerprinting`
 
 ---
 
@@ -126,12 +139,22 @@ My interest lies in the **infrastructure layer** — optimizing how AI models ar
 
 ---
 
-### 🏆 Milestones
+### 🏆 Achievements & Recognition
 
-- **AMD Slingshot 2026** — Built and submitted Resonance, a working Edge AI fault detection prototype on AMD Ryzen AI hardware
-- **La Trobe University Research Grant** — Awarded for the NeuroBloom neuro-hybrid monitoring system
-- **Smart India Hackathon (SIH)** — 2× Internal Finalist (2024, 2025)
-- **Education** — B.E. Computer Engineering, Dr. D.Y. Patil Institute of Technology · CGPA 8.75/10
+| Award | Organization | Date | Details |
+|-------|--------------|------|---------|
+| **1st Runner-Up** | La Trobe University Technology Infusion Grand Challenge Asia | May 2025 | ₹1,00,000 prize • 137 registrations • 11 universities |
+| **AMD Slingshot 2026** | AMD Innovation Challenge | Apr 2026 | Resonance edge AI prototype submission |
+| **Smart India Hackathon Finalist** | Dr. D.Y. Patil Institute | 2024, 2025 | Internal finalist (2×) |
+
+---
+
+### 📚 Education
+
+**B.E. Computer Engineering**  
+Dr. D.Y. Patil Institute of Technology, Pune (2023–2027)
+- **CGPA:** 8.87/10
+- **Focus:** Distributed Systems, Real-Time Computing, Performance Optimization
 
 ---
 
@@ -143,3 +166,18 @@ My interest lies in the **infrastructure layer** — optimizing how AI models ar
   <img height="160em" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=HSKCTA&theme=radical"/>
   <img height="160em" src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=HSKCTA&theme=radical&utcOffset=5"/>
 </div>
+
+---
+
+### 📊 Let's Connect
+
+Feel free to reach out for collaborations on **systems programming, edge AI, or GPU optimization** projects.
+
+- 💼 [LinkedIn](https://linkedin.com/in/hitesh-khare)
+- 📧 [Email](mailto:hiteshkhare9388@gmail.com)
+- 💻 [GitHub](https://github.com/HSKCTA)
+- 📄 [Resume](https://drive.google.com/file/d/1AcRf9HoHl6TML2_-6f1iYnds1IQdE9KF/view?usp=drivesdk)
+
+---
+
+*"Intelligence belongs at the edge. Latency belongs at zero."*
