@@ -144,8 +144,8 @@ Distributed neuro-hybrid monitoring system for early detection of learning disab
 | Award | Organization | Date | Details |
 |-------|--------------|------|---------|
 | **1st Runner-Up** | La Trobe University Technology Infusion Grand Challenge Asia | May 2025 | ₹1,00,000 prize • 137 registrations • 11 universities |
-| **AMD Slingshot 2026** | AMD Innovation Challenge | Apr 2026 | Resonance edge AI prototype submission |
-| **Smart India Hackathon Finalist** | Dr. D.Y. Patil Institute | 2024, 2025 | Internal finalist (2×) |
+| **Participant ** | AMD Slingshot 2026 | Apr 2026 | Resonance edge AI prototype submission |
+| **Internal finalist (2×)** | Smart India Hackathon Finalist | 2024, 2025 | College level finalist |
 
 ---
 
