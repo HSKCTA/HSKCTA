@@ -175,9 +175,6 @@ Feel free to reach out for collaborations on **systems programming, edge AI, or 
 
 - 💼 [LinkedIn](https://linkedin.com/in/hitesh-khare)
 - 📧 [Email](mailto:hiteshkhare9388@gmail.com)
-- 💻 [GitHub](https://github.com/HSKCTA)
 - 📄 [Resume](https://drive.google.com/file/d/1AcRf9HoHl6TML2_-6f1iYnds1IQdE9KF/view?usp=drivesdk)
 
 ---
-
-*"Intelligence belongs at the edge. Latency belongs at zero."*
